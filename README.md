@@ -21,5 +21,8 @@ Data Analytics
    
 8.  Análisis de Ventas de Productos y Presupuesto de Ventas para los Años 2017-2020
     Link : https://github.com/andrescosmemalaz/PROYECTO-DATA-VENTAS_PRESUPUESTO/blob/main/README.md
+
+9 . Gold Price Data : Proyecto de usar algoritmo de  machine learning para predecir precios del oro: 
+      Link : https://github.com/andrescosmemalaz/PROYECTOS-MACHINE-LEARNING/tree/main/Gold%20Price%20Data
    
 
