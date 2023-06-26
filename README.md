@@ -16,6 +16,6 @@ Data Analytics
 5. Análisis de Ventas de Servicios de Seguros por Años y Regiones . Oportunidades de crecimiento en la industria de seguros, los desafíos identificados y las estrategias recomendadas.
    Link : https://app.powerbi.com/links/CriFXtNnXl?ctid=301f6414-a956-463d-89c1-55175768f8bd&pbi_source=linkShare&bookmarkGuid=79a1dcb7-c155-42c3-89e3-7589c75d3454
 
-6. PROYECTO-DATA-RECURSOSHUMANOS
+6. Análisis de las Capacidades del Personal en Recursos Humanos
     Link : https://github.com/andrescosmemalaz/PROYECTO-DATA-RECURSOSHUMANOS/blob/main/README.md
 
