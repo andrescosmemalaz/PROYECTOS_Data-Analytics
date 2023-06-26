@@ -12,6 +12,9 @@ Data Analytics
    
 4. Análisis usando periodos , semaforos . KPI y usos avanzados de BI. Oportunidades para mejorar el uso de BI y demás situaciones en practica.
    Link : https://app.powerbi.com/links/_BuvrNSss6?ctid=301f6414-a956-463d-89c1-55175768f8bd&pbi_source=linkShare
+   
+5. Análisis de Ventas de Servicios de Seguros por Años y Regiones . Oportunidades de crecimiento en la industria de seguros, los desafíos identificados y las estrategias recomendadas.
+   Link : https://app.powerbi.com/links/CriFXtNnXl?ctid=301f6414-a956-463d-89c1-55175768f8bd&pbi_source=linkShare&bookmarkGuid=79a1dcb7-c155-42c3-89e3-7589c75d3454
 
    
 
